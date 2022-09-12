@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc-secretsmanager:postgresql://<RDS-CLOUD>:<PORT_NUMBER>/<DATABASE>
+    username: <SECRET_NAME>
+    driver-class-name: com.amazonaws.secretsmanager.sql.AWSSecretsManagerPostgreSQLDriver
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
