@@ -21,4 +21,6 @@ spring:
 
 ## Authors
 
-* **Anderson Alves de Oliveira** - [Anderson](https://github.com/anderson-solucoes/spring_connect_db_cloud)
+* **Anderson Alves de Oliveira** - [Anderson]
+
+![Captura de Tela 2022-09-12 às 19 36 42](https://user-images.githubusercontent.com/85138179/189779806-2c55f6aa-5e3c-4e51-8370-97580b3a5762.png)
